@@ -8,4 +8,4 @@
 # drop an Elytra.
 ##########################################
 
-entitydata @e[type=EnderDragon,tag=!hasElytra] {ArmorDropChances:[1.1f,1.1f,1.1f,1.1f],ArmorItems:[{},{},{id:elytra,Count:1},{}],Tags:["hasElytra"]}
+entitydata @e[type=Ender_Dragon,tag=!hasElytra] {ArmorDropChances:[1.1f,1.1f,1.1f,1.1f],ArmorItems:[{},{},{id:elytra,Count:1},{}],Tags:["hasElytra"]}
